@@ -1,1 +1,4 @@
-what a night
+echo "what a night"
+var=`pwd`
+echo "Current Directory : $pwd"
+
